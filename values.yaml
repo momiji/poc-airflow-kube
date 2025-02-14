@@ -1,0 +1,24 @@
+# executor: CeleryKubernetesExecutor
+executor: KubernetesExecutor
+
+workers:
+  replicas: 1
+
+webserverSecretKey: UldqVEJKU25sSHBKb0xQTk9NTU9XQUt3U2JTeEhacnE=
+fernetKey: eWRVaXJ5SmhrY1cwNUJuRnNmZ25UbG9nMGc2OVM3bm8=
+
+redis:
+  password: MgRJ6HVoCs
+
+# logs:
+#   persistence:
+#     enabled: true
+
+config:
+  logging:
+    remote_logging: 'True'
+    logging_level: 'INFO'
+    remote_base_log_folder: 's3://logs' # Specify the S3 bucket used for logging
+    remote_log_conn_id: 'logs' # Notice that this name is used in Step3 for creating connections through Airflow UI
+    delete_worker_pods: 'False'
+    encrypt_s3_logs: 'False'
