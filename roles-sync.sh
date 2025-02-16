@@ -22,5 +22,3 @@ echo "Applying roles diff..."
 set -x
 $( cat tmp/roles.sh )
 "
-
-#./exec.sh airflow roles list -p -o json | jq '.[] | . as $r | $r.action | split(",")[] | [$r.name,$r.resource,.] | join("|")' -rc | sort > roles/roles.csv
