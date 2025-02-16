@@ -1,0 +1,225 @@
+Admin|Actions|menu_access
+Admin|Admin|menu_access
+Admin|Audit Logs|can_read
+Admin|Audit Logs|menu_access
+Admin|Browse|menu_access
+Admin|Cluster Activity|can_read
+Admin|Cluster Activity|menu_access
+Admin|Configurations|can_read
+Admin|Configurations|menu_access
+Admin|Connections|can_create
+Admin|Connections|can_delete
+Admin|Connections|can_edit
+Admin|Connections|can_read
+Admin|Connections|menu_access
+Admin|DAG Code|can_read
+Admin|DAG Dependencies|can_read
+Admin|DAG Dependencies|menu_access
+Admin|DAG Runs|can_create
+Admin|DAG Runs|can_delete
+Admin|DAG Runs|can_edit
+Admin|DAG Runs|can_read
+Admin|DAG Runs|menu_access
+Admin|DAGs|can_delete
+Admin|DAGs|can_edit
+Admin|DAGs|can_read
+Admin|DAGs|menu_access
+Admin|DAG Warnings|can_read
+Admin|Datasets|can_create
+Admin|Datasets|can_delete
+Admin|Datasets|can_read
+Admin|Datasets|menu_access
+Admin|Docs|menu_access
+Admin|Documentation|menu_access
+Admin|ImportError|can_read
+Admin|Jobs|can_read
+Admin|Jobs|menu_access
+Admin|List Roles|menu_access
+Admin|List Users|menu_access
+Admin|My Password|can_edit
+Admin|My Password|can_read
+Admin|My Profile|can_edit
+Admin|My Profile|can_read
+Admin|Passwords|can_edit
+Admin|Passwords|can_read
+Admin|Permission Pairs|menu_access
+Admin|Permissions|can_read
+Admin|Permission Views|can_read
+Admin|Plugins|can_read
+Admin|Plugins|menu_access
+Admin|Pools|can_create
+Admin|Pools|can_delete
+Admin|Pools|can_edit
+Admin|Pools|can_read
+Admin|Pools|menu_access
+Admin|Providers|can_read
+Admin|Providers|menu_access
+Admin|Resources|menu_access
+Admin|Roles|can_create
+Admin|Roles|can_delete
+Admin|Roles|can_edit
+Admin|Roles|can_read
+Admin|Security|menu_access
+Admin|SLA Misses|can_delete
+Admin|SLA Misses|can_edit
+Admin|SLA Misses|can_read
+Admin|SLA Misses|menu_access
+Admin|Task Instances|can_create
+Admin|Task Instances|can_delete
+Admin|Task Instances|can_edit
+Admin|Task Instances|can_read
+Admin|Task Instances|menu_access
+Admin|Task Logs|can_read
+Admin|Task Reschedules|can_read
+Admin|Task Reschedules|menu_access
+Admin|Triggers|can_read
+Admin|Triggers|menu_access
+Admin|Users|can_create
+Admin|Users|can_delete
+Admin|Users|can_edit
+Admin|Users|can_read
+Admin|User's Statistics|menu_access
+Admin|User Stats Chart|can_read
+Admin|Variables|can_create
+Admin|Variables|can_delete
+Admin|Variables|can_edit
+Admin|Variables|can_read
+Admin|Variables|menu_access
+Admin|View Menus|can_read
+Admin|Website|can_read
+Admin|XComs|can_delete
+Admin|XComs|can_read
+Admin|XComs|menu_access
+Op|Admin|menu_access
+Op|Browse|menu_access
+Op|Cluster Activity|can_read
+Op|Cluster Activity|menu_access
+Op|Configurations|can_read
+Op|Configurations|menu_access
+Op|Connections|can_create
+Op|Connections|can_delete
+Op|Connections|can_edit
+Op|Connections|can_read
+Op|Connections|menu_access
+Op|DAG Code|can_read
+Op|DAG Dependencies|can_read
+Op|DAG Dependencies|menu_access
+Op|DAG Runs|can_create
+Op|DAG Runs|can_delete
+Op|DAG Runs|can_edit
+Op|DAG Runs|can_read
+Op|DAG Runs|menu_access
+Op|DAGs|can_delete
+Op|DAGs|can_edit
+Op|DAGs|can_read
+Op|DAGs|menu_access
+Op|DAG Warnings|can_read
+Op|Datasets|can_create
+Op|Datasets|can_delete
+Op|Datasets|can_read
+Op|Datasets|menu_access
+Op|Docs|menu_access
+Op|Documentation|menu_access
+Op|ImportError|can_read
+Op|Jobs|can_read
+Op|Jobs|menu_access
+Op|My Password|can_edit
+Op|My Password|can_read
+Op|My Profile|can_edit
+Op|My Profile|can_read
+Op|Plugins|can_read
+Op|Plugins|menu_access
+Op|Pools|can_create
+Op|Pools|can_delete
+Op|Pools|can_edit
+Op|Pools|can_read
+Op|Pools|menu_access
+Op|Providers|can_read
+Op|Providers|menu_access
+Op|SLA Misses|can_read
+Op|SLA Misses|menu_access
+Op|Task Instances|can_create
+Op|Task Instances|can_delete
+Op|Task Instances|can_edit
+Op|Task Instances|can_read
+Op|Task Instances|menu_access
+Op|Task Logs|can_read
+Op|Variables|can_create
+Op|Variables|can_delete
+Op|Variables|can_edit
+Op|Variables|can_read
+Op|Variables|menu_access
+Op|Website|can_read
+Op|XComs|can_delete
+Op|XComs|can_read
+Op|XComs|menu_access
+test|DAG Run:example_bash_operator|menu_access
+User|Browse|menu_access
+User|Cluster Activity|can_read
+User|Cluster Activity|menu_access
+User|DAG Code|can_read
+User|DAG Dependencies|can_read
+User|DAG Dependencies|menu_access
+User|DAG Runs|can_create
+User|DAG Runs|can_delete
+User|DAG Runs|can_edit
+User|DAG Runs|can_read
+User|DAG Runs|menu_access
+User|DAGs|can_delete
+User|DAGs|can_edit
+User|DAGs|can_read
+User|DAGs|menu_access
+User|DAG Warnings|can_read
+User|Datasets|can_create
+User|Datasets|can_read
+User|Datasets|menu_access
+User|Docs|menu_access
+User|Documentation|menu_access
+User|ImportError|can_read
+User|Jobs|can_read
+User|Jobs|menu_access
+User|My Password|can_edit
+User|My Password|can_read
+User|My Profile|can_edit
+User|My Profile|can_read
+User|Pools|can_read
+User|SLA Misses|can_read
+User|SLA Misses|menu_access
+User|Task Instances|can_create
+User|Task Instances|can_delete
+User|Task Instances|can_edit
+User|Task Instances|can_read
+User|Task Instances|menu_access
+User|Task Logs|can_read
+User|Website|can_read
+User|XComs|can_read
+Viewer|Browse|menu_access
+Viewer|Cluster Activity|can_read
+Viewer|Cluster Activity|menu_access
+Viewer|DAG Code|can_read
+Viewer|DAG Dependencies|can_read
+Viewer|DAG Dependencies|menu_access
+Viewer|DAG Runs|can_read
+Viewer|DAG Runs|menu_access
+Viewer|DAGs|can_read
+Viewer|DAGs|menu_access
+Viewer|DAG Warnings|can_read
+Viewer|Datasets|can_read
+Viewer|Datasets|menu_access
+Viewer|Docs|menu_access
+Viewer|Documentation|menu_access
+Viewer|ImportError|can_read
+Viewer|Jobs|can_read
+Viewer|Jobs|menu_access
+Viewer|My Password|can_edit
+Viewer|My Password|can_read
+Viewer|My Profile|can_edit
+Viewer|My Profile|can_read
+Viewer|Pools|can_read
+Viewer|SLA Misses|can_read
+Viewer|SLA Misses|menu_access
+Viewer|Task Instances|can_read
+Viewer|Task Instances|menu_access
+Viewer|Task Logs|can_read
+Viewer|Website|can_read
+Viewer|XComs|can_read

@@ -1,6 +1,5 @@
-export NAMESPACE=example-namespace
-export RELEASE_NAME=example-release
+source env.sh --
 
-helm uninstall $RELEASE_NAME --namespace $NAMESPACE
+helm uninstall "$RELEASE_NAME "--namespace "$NAMESPACE"
 
-kubectl delete namespace $NAMESPACE
+kubectl delete namespace "$NAMESPACE"

@@ -1,0 +1,92 @@
+Actions.menu_access
+Admin.menu_access
+Audit Logs.can_read
+Audit Logs.menu_access
+Browse.menu_access
+Cluster Activity.can_read
+Cluster Activity.menu_access
+Configurations.can_read
+Configurations.menu_access
+Connections.can_create
+Connections.can_delete
+Connections.can_edit
+Connections.can_read
+Connections.menu_access
+DAG Code.can_read
+DAG Dependencies.can_read
+DAG Dependencies.menu_access
+DAG Runs.can_create
+DAG Runs.can_delete
+DAG Runs.can_edit
+DAG Runs.can_read
+DAG Runs.menu_access
+DAGs.can_delete
+DAGs.can_edit
+DAGs.can_read
+DAGs.menu_access
+DAG Warnings.can_read
+Datasets.can_create
+Datasets.can_delete
+Datasets.can_read
+Datasets.menu_access
+Docs.menu_access
+Documentation.menu_access
+ImportError.can_read
+Jobs.can_read
+Jobs.menu_access
+List Roles.menu_access
+List Users.menu_access
+My Password.can_edit
+My Password.can_read
+My Profile.can_edit
+My Profile.can_read
+Passwords.can_edit
+Passwords.can_read
+Permission Pairs.menu_access
+Permissions.can_read
+Permission Views.can_read
+Plugins.can_read
+Plugins.menu_access
+Pools.can_create
+Pools.can_delete
+Pools.can_edit
+Pools.can_read
+Pools.menu_access
+Providers.can_read
+Providers.menu_access
+Resources.menu_access
+Roles.can_create
+Roles.can_delete
+Roles.can_edit
+Roles.can_read
+Security.menu_access
+SLA Misses.can_delete
+SLA Misses.can_edit
+SLA Misses.can_read
+SLA Misses.menu_access
+Task Instances.can_create
+Task Instances.can_delete
+Task Instances.can_edit
+Task Instances.can_read
+Task Instances.menu_access
+Task Logs.can_read
+Task Reschedules.can_read
+Task Reschedules.menu_access
+Triggers.can_read
+Triggers.menu_access
+Users.can_create
+Users.can_delete
+Users.can_edit
+Users.can_read
+User's Statistics.menu_access
+User Stats Chart.can_read
+Variables.can_create
+Variables.can_delete
+Variables.can_edit
+Variables.can_read
+Variables.menu_access
+View Menus.can_read
+Website.can_read
+XComs.can_delete
+XComs.can_read
+XComs.menu_access
